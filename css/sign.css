@@ -1,0 +1,62 @@
+body{
+    background:#efefef;
+}
+.error{
+    color:red;
+}
+.head{
+    color:#fff;
+    font-size:20px;
+    width:100vw;
+    height:10vh;
+    background:#00e2f8;
+    text-align:center;
+    line-height:10vh;
+}
+.prev{
+    position: absolute;
+    left:5px;
+    color:#fff;
+}
+.head a{
+    font-size:24px;
+    color:#fff;
+}
+.head b a{
+    font-size:16px;
+    color:#fff;
+}
+form{
+    margin:60px auto 30px;
+}
+
+li{
+    display: block;
+    width:80vw;
+    height:10vh;
+    background:#fff;
+    margin:0 auto 1px;
+    line-height:10vh;
+    padding-left:10px;
+    position: relative;
+}
+li p{
+    width:22vw;
+    float:left;
+}
+li input{
+    height:8vh;
+    width:30vw;
+}
+#btn{
+    width:82vw;
+    height:6vh;
+    background: #00e2f8;
+    display: block;
+    margin:30px auto 0;
+    color:#fff;
+}
+span{
+    display:table;
+    margin:10px auto;
+}
